@@ -1,0 +1,4 @@
+# Project exclude paths
+/mall-interface/target/
+/order-service-consumer/target/
+/user-service-provider/target/
