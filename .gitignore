@@ -3,3 +3,4 @@
 /order-service-consumer/target/
 /user-service-provider/target/
 *.class
+**/target/
