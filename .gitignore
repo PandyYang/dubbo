@@ -2,3 +2,4 @@
 /mall-interface/target/
 /order-service-consumer/target/
 /user-service-provider/target/
+*.class
